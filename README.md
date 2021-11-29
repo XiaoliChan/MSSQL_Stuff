@@ -1,6 +1,6 @@
 # MSSQL_Stuff
 
-Some scripts for microsoft SQL server in old version.
+Some scripts for microsoft SQL server which is in old version.
 
 # Table of content
 
