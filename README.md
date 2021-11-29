@@ -28,5 +28,5 @@ mssql_PasswordSpraying.py
 
 ## References
 
-Original [mssql_shell.py](https://github.com/Alamot/code-snippets/blob/master/mssql/mssql_shell.py)
-Thanks: [n00B-ToT](https://github.com/n00B-ToT) add some function for mssql_PasswordSpraying.py
+Original [mssql_shell.py](https://github.com/Alamot/code-snippets/blob/master/mssql/mssql_shell.py)  
+#### Thanks: [n00B-ToT](https://github.com/n00B-ToT) add some function for mssql_PasswordSpraying.py
