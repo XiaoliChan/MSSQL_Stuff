@@ -7,7 +7,7 @@ import warnings
 
 with warnings.catch_warnings():
     warnings.filterwarnings("ignore",category=DeprecationWarning)
-    import _mssql
+    from pymssql import _mssql
 
 BUFFER_SIZE = 5*1024
 TIMEOUT = 5
